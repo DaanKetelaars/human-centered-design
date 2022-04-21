@@ -196,13 +196,13 @@ td {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        width: 960px;
+        width: 480px;
         max-width: 100%;
     }
 
     section h1 {
         margin-bottom: 1rem;
-        font-size: 3rem;
+        font-size: 2.75rem;
     }
 
     section p {
@@ -263,11 +263,15 @@ td {
         width: 100%;
     }
 
-    .navigation a {
+    .navigation,
+    .planning-navigation a {
         margin-right: 1rem;
         margin-left: 1rem;
     }
 
+    .planning-navigation {
+        flex-direction: row;
+    }
 
 
     .bestemming,
@@ -280,8 +284,11 @@ td {
         margin: 2rem;
     }
 
-    .bestemming label {
+    .bestemming label:nth-of-type(1) {
         margin-right: 1rem;
+    }
+
+    .bestemming label:nth-of-type(2) {
         margin-left: 1rem;
     }
 
