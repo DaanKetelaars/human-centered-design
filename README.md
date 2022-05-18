@@ -97,6 +97,14 @@ Voor de eerste test had ik een prototype gemaakt met een volledige flow, alles b
 - verre toetsen is vaak wat lastiger om te bereiken
 - H K J L om mee te bewegen (zoek de betekenis ervan op) 
 
+**Screenshots**
+
+<img src="Schermafbeelding 2022-05-18 om 19.19.01.png" alt="Screenshot 1">
+<img src="Schermafbeelding 2022-05-18 om 19.19.09.png" alt="Screenshot 2">
+<img src="Schermafbeelding 2022-05-18 om 19.19.16.png" alt="Screenshot 3">
+<img src="Schermafbeelding 2022-05-18 om 19.19.21.png" alt="Screenshot 4">
+
+
 **Resultaat**
 
 Ik ben er dus achter gekomen wat ik wel en niet kan gebruiken qua functionaliteiten op de laptop. Ook zal ik echt vanuit feiten moeten gaan werken en niet vanuit aannames. Dit kan fout gaan, toch is het goed om wel af en toe te doen en te zien wat dan wel kan. Op je bek gaan en iets maken wat niet werkt is niet zo'n groot probleem.
