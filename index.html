@@ -5,33 +5,39 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="public/css/style.css">
-    <script defer src="public/js/app.js"></script>
-    <title>Niet NS - Home</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="./public/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>VIM NS</title>
 </head>
 
 <body>
-
+    <div class="stappen">
+        <a href="index.html" class="active">Stap 1</a>
+        <a href="">Stap 2</a>
+        <a href="">Stap 3</a>
+        <a href="">Stap 4</a>
+        <a href="">Stap 5</a>
+    </div>
     <main>
-        <div class="keys">
-            <p>Key: <span id="key"></span></p>
-            <p>Code: <span id="eventCode"></span></p>
-
+        <h1>Hey Marijn, back again? Plan <span> &lt;vimpel/&gt; </span> je volgende reis!</h1>
+        <div class="controls">
+            <h2>JOUW CONTROLS</h2>
+            <div class="moveCtrls">
+                <p><span>H:</span>LEFT</p>
+                <p><span>J:</span>UP</p>
+                <p><span>K:</span>DOWN</p>
+                <p><span>L:</span>RIGHT</p>
+            </div>
+            <div class="enterCtrls">
+                <p><span>SPACEBAR:</span>NEXT</p>
+            </div>
         </div>
+        <p class="nextPage">Press "SPACEBAR" om naar de volgende pagina te gaan.</p>
 
-        <section>
-            <h1>Welkom bij Niet NS.</h1>
-            <p>Plan uw reis gemakkelijk en snel.</p>
-            <a href="bestemming.html">reis plannen</a>
-        </section>
-
-        <ul>
-            <h2>Controls</h2>
-            <li>Tab</li>
-            <li>Enter</li>
-        </ul>
     </main>
-
+    <script src="./public/js/app.js"></script>
 </body>
 
 </html>

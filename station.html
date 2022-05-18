@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="./public/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-    <title>VIM NS - Planning</title>
+    <title>VIM NS - Station</title>
 </head>
 
 <body>
@@ -18,7 +18,7 @@
         <a href="date.html" class="active">Stap 2</a>
         <a href="time.html" class="active">Stap 3</a>
         <a href="station.html" class="active">Stap 4</a>
-        <a href="planning.html" class="active">Stap 5</a>
+        <a href="planning.html">Stap 5</a>
     </div>
     <div class="popup">
         <div class="popupContent">
@@ -29,25 +29,19 @@
             </div>
         </div>
     </div>
-    <main id="planning">
-        <h1>Hierbij een compleet <span> &lt;overzicht/&gt; </span> van je reis</h1>
+    <main id="station">
+        <h1>Kies je <span> &lt;station/&gt; </span> van vertrek & aankomst</h1>
         <p>We hebben van je oudere bezoeken al wat voor je ingevuld.</p>
-        <table>
-            <tbody>
-                <tr>
-                    <th>Dag</th>
-                    <th>Tijd</th>
-                    <th>Van</th>
-                    <th>Naar</th>
-                </tr>
-                <tr>
-                    <td>18-05-2022</td>
-                    <td>18:00 = 17:00 (min één uur)</td>
-                    <td>Eindhoven Centraal</td>
-                    <td>Amsterdam Centraal</td>
-                </tr>
-            </tbody>
-        </table>
+        <div class="station">
+            <div class="vertrek">
+                <h3>Vertrek:</h3>
+                <input type="text" placeholder="Eindhoven..." value="Eindhoven">
+            </div>
+            <div class="aankomst">
+                <h3>Aankomst:</h3>
+                <input type="text" placeholder="Amsterdam..." value="">
+            </div>
+        </div>
     </main>
 
     <script src="./public/js/app.js"></script>
