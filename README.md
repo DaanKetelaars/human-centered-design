@@ -62,18 +62,22 @@ Marijn kan vast en zeker NS en 9292 gebruiken om zijn reis te plannen. Toch bied
 ### Een paar do's en don'ts voor je gaat testen
 
 **Observe**
+
 Let's go out and watch people. Observe, do fieldwork to see what they really do in their lives.
 - Don Norman
 
 **Don't listen to the customer**
+
 Don't listen to the customer. Don't do what the customer say you should do. They'll ask what they already know. Users are not designers.
 - Jacob Nielsen
 
 **Test with someone**
+
 Testing with one user is 100% better then testing with none.
 - Steve Krug
 
 **Think out loud**
+
 Laat de gebruiker hardop denken tijdens het testen. Zo kom je te weten hoe de gebruiker echt denkt en wat er dus anders kan, maar ook zeker wat er al goed gaat.
 
 **You can't answer their questions**
@@ -82,6 +86,7 @@ Antwoord vragen met een vraag. Ga niet alles invullen voor het testpersoon, hoe 
 
 ## Test - Week 1
 **Verslag**
+
 Voor de eerste test had ik een prototype gemaakt met een volledige flow, alles bedienbaar met alleen je toetsenbord. Voornamelijk met tab en enter. Na mijn test heb ik dit allemaal aan de kant kunnen schuiven, want mijn testpersoon kon het amper gebruiken. Al mijn aannames werden in één keer ontkracht. Nou kon ik niet anders omdat ik nog niks van mijn testpersoon af wist, dus was dit het perfecte momenten om allemaal informatie te verzamelen over hem. Hoe gebruikt hij zijn laptop en welke toetsen gebruikt hij het meest. Gebruikt hij zijn trackpad, ja of nee?. Ik heb alles bijgehouden in mijn notities. Dit zijn mijn feedback punten en observaties. 
 
 - Marijn gebruikt geen tab toets
@@ -93,10 +98,12 @@ Voor de eerste test had ik een prototype gemaakt met een volledige flow, alles b
 - H K J L om mee te bewegen (zoek de betekenis ervan op) 
 
 **Resultaat**
+
 Ik ben er dus achter gekomen wat ik wel en niet kan gebruiken qua functionaliteiten op de laptop. Ook zal ik echt vanuit feiten moeten gaan werken en niet vanuit aannames. Dit kan fout gaan, toch is het goed om wel af en toe te doen en te zien wat dan wel kan. Op je bek gaan en iets maken wat niet werkt is niet zo'n groot probleem.
 
 ## Test - Week 2
 **Verslag**
+
 Marijn kwam deze keer fysiek naar onze locatie toe. Als contact persoon mocht ik Marijn ophalen en meenemen naar onze locatie. Dit was op zich wel handig want ook nu kon ik wat informatie vergaren over hem en wat hij allemaal kan. Hoe hij sommige dingen gebruikt ook. Zo kan hij dus wel zijn telefoon gebruiken namelijk. Hierna gingen we testen. Hij had weer zijn eigen laptop mee en ik liet hem mijn prototype zien. Eigenlijk een interactie waar ik aan had gewerkt. Deze keer was het iets positiever maar toch weer genoeg feedback om verder te bouwen. Hierna heb ik bij andere geobserveerd om te zien wat er bij hen mis ging. Ook dit heb ik opgeschreven in mijn notities.
 
 - Marijn is fan van Heavy metal, boeken en bier
@@ -107,13 +114,16 @@ Marijn kwam deze keer fysiek naar onze locatie toe. Als contact persoon mocht ik
 - Zorgen dat als hij een reis boek je meetelt dat hij 1 uur van te voren moet zijn
 
 **Resultaat**
+
 Uit mijn geteste prototype/interactie kon ik halen dat ik wel op de juiste weg zat. Het is fijn als je ervoor zocht dat ding niet petieterig zijn en hij gewoon snel door de flow heen kan. Ook is het handig om bij sommige dingen alvast wat standaard dingen ingevuld te hebben, scheelt hem weer invullen en zo gaat het nog sneller. Dingen zoals: tijd, datum en misschien zelfs vertrek station. 
 
 ## Test - Week 3
-Helaas heb ik geen derde test kunnen doen met Marijn. Dit was wel jammer omdat ik nog één interactie met hem wilden testen. Kijken of dit wel lekker werkt voor hem. Mijn eindproduct is daarom dan ook uiteindelijk wel op wat aannammes gebaseerd. 
 **Verslag**
--
+
+Helaas heb ik geen derde test kunnen doen met Marijn. Dit was wel jammer omdat ik nog één interactie met hem wilden testen. Kijken of dit wel lekker werkt voor hem. Mijn eindproduct is daarom dan ook uiteindelijk wel op wat aannammes gebaseerd. 
+
 **Resultaat**
+
 -
 
 ## Reflectie
